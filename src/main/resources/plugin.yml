@@ -1,0 +1,6 @@
+name: SandstoneOnly
+version: ${project.version}
+main: de.glowman554.sand.SandMain
+api-version: 1.19
+author: Glowman554
+softdepend: ['Multiverse-Core']
